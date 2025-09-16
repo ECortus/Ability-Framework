@@ -1,8 +1,10 @@
 {
-    "name": "AbilityFramework.Core",
+    "name": "AbilityFramework.Debug",
     "rootNamespace": "AbilityFramework",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
